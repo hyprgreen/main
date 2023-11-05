@@ -95,7 +95,7 @@ sudo rpm-ostree rebase --experimental ostree-unverified-registry:ghcr.io/hyprgre
 tag [see](https://github.com/hyprgreen/main/releases)
 Install a specific release of hyprgreen via rebase
 ```sh
-sudo rpm-ostree rebase --experimental ostree-unverified-registry:ghcr.io/hyprgreen/main:v38.0.2
+sudo rpm-ostree rebase --experimental ostree-unverified-registry:ghcr.io/hyprgreen/main:v38.0.20
 ```
 #### Rebase to the hyprgreen nightly build (Not Recomended)
 Install the nightly build of hyprgreen (Not Recomended) via rebase
